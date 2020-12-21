@@ -21,7 +21,6 @@ var config = {
         "真没了",
         "别看了",
         "。。。。。。。",
-        "因为在这打字累奥",
         "hp bsday！",
     ],
     /**
@@ -40,7 +39,7 @@ var config = {
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "开咕咕咕始",
-        play: "缪",
+        play: "缪贼克儿",
         bannar_coming: "biu",
         balloons_flying: "巴啦啦能量",
         cake_fadein: "给个蛋糕",
